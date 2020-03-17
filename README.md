@@ -1,2 +1,2 @@
-# bennyfolio
-A photographic portfolio for Benedict Jones.
+# Benny Folio  
+A photographic portfolio for Benedict Jones. 📸✨
